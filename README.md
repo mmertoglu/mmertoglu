@@ -1,15 +1,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 ### Hi there 👋
-
-
-
-
-
+<br/> <br/>
 ### I'm Muhammed. I'm 25 years old. 
-
+<br/>
  ### - 🌱 I’m currently learning react-native
-
+<br/> <br/>
 
 
 
@@ -21,7 +17,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+<br/> <br/>
 
 
 ## 📫 &nbsp;How To Reach Me?
@@ -30,7 +26,7 @@
 
 
 
-
+<br/> <br/>
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mmertoglu&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmertoglu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
