@@ -1,9 +1,10 @@
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 ### Hi there 👋
-I'm Muhammed. I'm 25 years old. 
 
-- 🌱 I’m currently learning react-native
+### I'm Muhammed. I'm 25 years old. 
+
+ ### - 🌱 I’m currently learning react-native
 
 ## 🛠 &nbsp;Tech Stack
 
