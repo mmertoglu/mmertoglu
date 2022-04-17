@@ -2,9 +2,16 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 ### Hi there 👋
 
+
+
+
+
 ### I'm Muhammed. I'm 25 years old. 
 
  ### - 🌱 I’m currently learning react-native
+
+
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,6 +27,9 @@
 ## 📫 &nbsp;How To Reach Me?
 
 <a href="https://www.linkedin.com/in/muhammed-mertoğlu-89345322b/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
+
+
+
 
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mmertoglu&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
