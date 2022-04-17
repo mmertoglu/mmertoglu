@@ -9,8 +9,7 @@ I'm Muhammed. I'm 25 years old.
 
 How To Reach Me?
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/muhammed-merto%C4%9Flu-89345322b/)
-&nbsp;
+<a href="https://www.linkedin.com/in/muhammed-mertoğlu"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mmertoglu) 
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mmertoglu&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
