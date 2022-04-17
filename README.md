@@ -9,13 +9,16 @@ I'm Muhammed. I'm 25 years old.
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mmertoglu) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 
 
-## 🛠 &nbsp;How To Reach Me?
+## 📫 &nbsp;How To Reach Me?
 
 <a href="https://www.linkedin.com/in/muhammed-mertoğlu-89345322b/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mmertoglu) 
+
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mmertoglu&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmertoglu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
