@@ -4,7 +4,7 @@
 <br/> <br/>
 I'm Muhammed. I'm 25 years old. 
 <br/>
- -- 🌱 I’m currently learning react-native
+ -- 🌱 I’m a junior react-native developer who wants to improve his coding skills with passion
  <b/> <p/>
 <br/> <br/>
 
