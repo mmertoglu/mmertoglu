@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/116n6kcHaFbw3e/giphy.gif?cid=ecf05e47fftblpq7i4a6rvv94cbfsfsu9x6rexf1qg8dm8jy&rid=giphy.gif&ct=g" width="300" height="220" />
 <p> <b> Hi there! 👋 
 <br/> <br/>
-I'm Muhammed. I'm 25 years old. 
+I'm Muhammed.
 <br/>
  -- 🌱 I’m a junior react-native developer who wants to improve his coding skills with passion
  <b/> <p/>
