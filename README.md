@@ -1,10 +1,10 @@
-<img height="150em" align="right" src="https://thumbs.dreamstime.com/b/mobile-app-development-concept-modern-technology-illsutration-internet-connection-smartphone-interface-coding-programming-146821597.jpg" alt="mukireus"/>
+<img height="200" align="right" src="https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif" alt="mukireus"/>
 
 <p> <b> Hi there! 👋 
 <br/> <br/>
 I'm Muhammed.
 <br/>
- -- 🌱 I’m a junior react-native developer who wants to improve his coding skills with passion
+ 🌱 I’m a junior react-native developer who wants to improve his coding skills with passion
  <b/> <p/>
 <br/> <br/>
 
