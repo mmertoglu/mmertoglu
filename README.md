@@ -1,4 +1,4 @@
-<img height="200" align="right" src="https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif" alt="mukireus"/>
+<img height="150" align="right" src="https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif" alt="mukireus"/>
 
 <p> <b> Hi there! 👋 
 <br/> <br/>
